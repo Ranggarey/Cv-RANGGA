@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - AI Search Web Evaluator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #333;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 5px;
+        }
+        .contact {
+            font-size: 14px;
+            color: #555;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        .section h2 {
+            background: #0073e6;
+            color: white;
+            padding: 8px;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        .section p, .section ul {
+            font-size: 14px;
+            color: #444;
+            margin-left: 10px;
+        }
+        .section ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <div>
+            <h1>Rangga</h1>
+            <p class="contact">
+                📧 email@email.com | 📱 +62 812-3456-7890 <br>
+                🌐 LinkedIn: <a href="https://linkedin.com/in/nama" target="_blank">linkedin.com/in/nama</a>
+            </p>
+        </div>
+        <img src="https://via.placeholder.com/120" alt="Foto Profil">
+    </div>
+
+    <div class="section">
+        <h2>🎯 Ringkasan Profil</h2>
+        <p>Mahasiswa Pendidikan Bahasa Inggris dengan pengalaman mengajar dan keterampilan riset yang kuat. Berpengalaman dalam mengevaluasi informasi, menyusun materi pembelajaran, dan menggunakan AI untuk meningkatkan efektivitas belajar.</p>
+    </div>
+
+    <div class="section">
+        <h2>🔹 Keterampilan Utama</h2>
+        <ul>
+            <li>Evaluasi Hasil Pencarian & Analisis Data</li>
+            <li>Prompt Engineering & Optimasi AI</li>
+            <li>Riset Online & Verifikasi Fakta</li>
+            <li>Pemanfaatan AI dalam Pembelajaran</li>
+            <li>Kemampuan Bahasa Inggris yang Kuat</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>💼 Pengalaman Kerja</h2>
+        <p><strong>Guru Bahasa Inggris (Honorer) – SMA XYZ (2023 – Sekarang)</strong></p>
+        <ul>
+            <li>Menyusun dan mengevaluasi materi pembelajaran berbasis AI.</li>
+            <li>Menggunakan ChatGPT untuk menghasilkan latihan soal dengan optimasi prompt.</li>
+            <li>Melakukan riset online untuk menyusun materi yang relevan dengan kurikulum.</li>
+            <li>Menganalisis hasil pencarian untuk memastikan informasi yang diberikan akurat.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🎓 Pendidikan</h2>
+        <p>S1 Pendidikan Bahasa Inggris – Universitas XYZ (2020 – Sekarang, Semester Akhir)</p>
+    </div>
+
+    <div class="section">
+        <h2>📜 Kursus & Pelatihan</h2>
+        <ul>
+            <li>AI for Everyone – Coursera (2024)</li>
+            <li>Prompt Engineering for AI – DeepLearning.AI (2024)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🗣 Bahasa</h2>
+        <ul>
+            <li>Bahasa Indonesia (Fluent – Native Speaker)</li>
+            <li>Bahasa Inggris (Advanced – TOEFL 600 / IELTS 7.0)</li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
